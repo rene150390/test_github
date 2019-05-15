@@ -1,5 +1,9 @@
 first commit
 testBranch2
 t3Checkit
+<<<<<<< HEAD
 t4branch
 t5Branch
+=======
+t4branch
+>>>>>>> change t4
